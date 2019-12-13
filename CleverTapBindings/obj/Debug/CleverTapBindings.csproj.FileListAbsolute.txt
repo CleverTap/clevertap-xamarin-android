@@ -1,0 +1,4 @@
+/Users/darshanpania/Desktop/CleverTapApps/Xamarin/CleverTapBindings/CleverTapBindings/bin/Debug/CleverTapBindings.dll
+/Users/darshanpania/Desktop/CleverTapApps/Xamarin/CleverTapBindings/CleverTapBindings/bin/Debug/CleverTapBindings.pdb
+/Users/darshanpania/Desktop/CleverTapApps/Xamarin/CleverTapBindings/CleverTapBindings/obj/Debug/CleverTapBindings.dll
+/Users/darshanpania/Desktop/CleverTapApps/Xamarin/CleverTapBindings/CleverTapBindings/obj/Debug/CleverTapBindings.pdb

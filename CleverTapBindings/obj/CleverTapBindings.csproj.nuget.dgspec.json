@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/darshanpania/Desktop/CleverTapApps/Xamarin/CleverTapBindings/CleverTapBindings/CleverTapBindings.csproj": {}
+  },
+  "projects": {
+    "/Users/darshanpania/Desktop/CleverTapApps/Xamarin/CleverTapBindings/CleverTapBindings/CleverTapBindings.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/darshanpania/Desktop/CleverTapApps/Xamarin/CleverTapBindings/CleverTapBindings/CleverTapBindings.csproj",
+        "projectName": "CleverTapBindings",
+        "projectPath": "/Users/darshanpania/Desktop/CleverTapApps/Xamarin/CleverTapBindings/CleverTapBindings/CleverTapBindings.csproj",
+        "packagesPath": "/Users/darshanpania/.nuget/packages/",
+        "outputPath": "/Users/darshanpania/Desktop/CleverTapApps/Xamarin/CleverTapBindings/CleverTapBindings/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/darshanpania/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
